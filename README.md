@@ -3,8 +3,7 @@ Event-Driven Trading Strategy with Catalyst Detection and Lime API Execution Thi
 
 ![Portfolio Results](./Limex_Trading_Summer25_Results.png)
 
-![Leaderboard Results](./Limex_Trading_Summer25_Leaderboard.png
-
+![Leaderboard Results](./Limex_Trading_Summer25_Leaderboard.png)
 
 # Event-Driven Trading Strategy with Catalyst Detection
 This repository contains the research, development, and implementation of a short-horizon event-driven trading strategy that systematically captures market inefficiencies around catalysts such as earnings surprises, corporate actions, and regulatory changes. The strategy was developed and deployed during the Limex Trading Challenge Summer 2025, where it achieved **1st in Absolute Returns** ($117,850 / 17.85%) and **2nd in Sharpe Ratio** (2.75) across 559 trades taken, while having <3% maximum drawdown while maintaining strong alpha capture.
